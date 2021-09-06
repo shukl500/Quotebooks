@@ -2,3 +2,7 @@ Hi
 
 This is personal text.
 Coding the python
+
+I am adding few things 
+
+I am adding in master now 
